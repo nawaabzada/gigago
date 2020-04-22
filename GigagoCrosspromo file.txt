@@ -1,0 +1,18 @@
+{
+    "Items": [
+        {
+            "GameId": "1",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.cat.family.kitty.game.simulator&referrer=utm_source%3Dcat%2520family%26utm_medium%3Dcpc%26utm_campaign%3Dcatfamily%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/icon.png"
+        },
+        {
+            "GameId": "2",
+            "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.sea.horse.adventure&referrer=utm_source%3DSea%2520Hero%26utm_medium%3Dcpc%26anid%3Dadmob",
+            "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/interstatial.jpg",
+            "Banner": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Underwater%20Fight/banner.jpg",
+            "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Icon.01.png"
+        }
+    ]
+}
