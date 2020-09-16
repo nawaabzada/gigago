@@ -74,7 +74,7 @@
             "GameId": "11",
             "GameLink": "https://play.google.com/store/apps/details?id=com.gigago.last.island.survive&referrer=utm_source%3Dgoogle%26utm_medium%3Dcpc%26anid%3Dadmob",
             "Interstitial": "https://raw.githubusercontent.com/asadali3274/MyGames/master/Cross%20Promo%20Heli/interstatila-promo.jpg",
-            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Last-Island-to-Survive.png"
+            "Banner": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Last-Island-to-Survive.png",
             "Native": "https://raw.githubusercontent.com/nawaabzada/gigago/master/Last-Island-to-Survive.jpg"
         },
         {
